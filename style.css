@@ -24,7 +24,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-header navigation {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +32,11 @@ header navigation {
     font-size: 20px;
 }
 
-header navigation ul {
+header nav ul {
     list-style-type: none;
 }
 
-header navigation ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
